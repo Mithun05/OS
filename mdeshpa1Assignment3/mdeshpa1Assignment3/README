@@ -1,0 +1,108 @@
+
+
+I have observed the Named Pipe case with both the Shell scripts and C source files.
+
+
+Summary :
+
+1) Shell script with mutiple consumer and producer leads to a race condition.
+2) C source files producer and consumer works fine in all the cases. [I have mentioned in detail below for all the cases. Please take a look]
+
+
+With the Shell Scripts:
+
+First case: One Producer and One Consumer
+
+1)	Named Pipe is a FIFO. It reads the bytes in the same order in which it is being stored.
+2)	It resides as a file within the File System
+
+Considering Following different scenarios for this case:
+
+1)	First I run Consumer process on one terminal, it’s become blocked as other end of the pipe is not connected yet. As you start running Producer process on another terminal, producer writes a line which is a series of bytes are being consumed by the Consumer process in the same order.  Now running concurrently, Producer writes a series of bytes and Consumer reads those bytes in the same order.
+2)	First I run Producer process on one terminal, it’s become blocked as other end of the pipe is not connected yet by writing a single line into the pipe which are in fact a series of bytes. As you start running Consumer process on another terminal, consumer starts consuming them in the same order.  Now running concurrently, Producer writes a series of bytes and Consumer reads those bytes in the same order.
+3)	If by chance both runs at the same time, then Producer writes and Consumer consumes them Until the lines producer wants to write or Unless User terminates them using CTRL + C.
+
+Kill the Producer with CTRL+ C and Leave Consumer Running:
+
+What Happens:
+
+-	Producer process stops and Consumer process gets blocked.
+
+Why:
+
+-	Consumer process sees no other end of the pipe is opened or no more bytes to be read or waits for something to happen by kind of Signal Handler.  This is also known as broken pipe message. 
+-	Producer receives signal of stopping by special combination of Keyboard keys which is CTRL + C.
+
+Kill the Consumer with CTRL+ C and Leave Producer Running:
+
+What Happens:
+
+-	Consumer process stops and Producer process gets blocked.
+
+Why:
+
+-	Consumer receives signal of stopping by special combination of Keyboard keys which is CTRL + C.
+-	Producer writes a series of bytes into the pipe and wait for them to be consumed and other end of the pipe is not opened so this process waits for it to happened. This is also known as broken pipe message.
+
+
+Second case: One Consumer and Multiple Producer
+
+-	Multiple Producer writes their series of bytes at a time and Consumer consumes those bytes from the producers at a time in the same order in which they are produced. Named Pipes are by default self-synchronized.
+
+Third case: One Producer and Multiple Consumer
+
+-	Multiple consumer struggles to read bytes that are being written into the pipe by the producer which leads to race condition and ended up reading few bytes by one Consumer Process and sometimes reading a series of bytes by another Consumer process. The final outcome is that line produced by the Producer is read by the Consumer in an interspersed manner.
+
+Fourth case: Multiple Producer and Multiple Consumer
+
+-	This is an actual race condition. Producers writes a series of bytes into the pipe however multiple consumer struggles to read them and ended up reading few bytes by one Consumer and remaining few bytes by another Consumer.
+
+
+
+With the C source files:
+
+
+First case: One Producer and One Consumer
+
+Considering Following different scenarios for this case:
+
+4)	First I run Consumer process on one terminal, it’s become blocked as other end of the pipe is not connected yet. As you start running Producer process on another terminal, producer writes a line which is a series of bytes are being consumed by the Consumer process in the same order.  Now running concurrently, Producer writes a series of bytes and Consumer reads those bytes in the same order.
+5)	First I run Producer process on one terminal, it’s become blocked as other end of the pipe is not connected yet. As you start running Consumer process on another terminal, consumer starts consuming them in the same order.  Now running concurrently, Producer writes a series of bytes and Consumer reads those bytes in the same order.
+6)	If by chance both runs at the same time, then Producer writes and Consumer consumes them Until the lines producer wants to write or Unless User terminates them using CTRL + C.
+
+Kill the Producer with CTRL+ C and Leave Consumer Running:
+
+What Happens:
+
+-	Producer process stops and Consumer process gets blocked or it returns an error as there no more bytes to read in the pipe.
+
+Why:
+
+-	Consumer process sees no other end of the pipe is opened or no more bytes to be read or waits for something to happen by kind of Signal Handler. The errors are known as Operation Timed out and Undefined error as there are no more bytes to read.
+-	Producer receives signal of stopping by special combination of Keyboard keys which is CTRL + C by which it comes out of the loop.
+
+Kill the Consumer with CTRL+ C and Leave Producer Running:
+
+What Happens:
+
+-	Consumer process stops and Producer process gets blocked or get an errors messages.
+
+Why:
+
+-	Consumer receives signal of stopping by special combination of Keyboard keys which is CTRL + C by which it comes out of the loop.
+-	Producer writes a series of bytes into the pipe and wait for them to be consumed and other end of the pipe is not opened so this process waits for it to happened. This is also known as broken pipe message. As the producer do not see the other end of the pipe which in fact is closed.
+
+
+
+Second case: One Consumer and Multiple Producer
+
+-	Multiple Producer writes their series of bytes at a time and Consumer consumes those bytes from the producers at a time in the same order in which they are produced. Named Pipes are by default self-synchronized. It works fine.
+
+Third case: One Producer and Multiple Consumer
+
+-	The bytes written by Producer has been consumed by a Consumer at a time. It works fine.
+
+Fourth case: Multiple Producer and Multiple Consumer
+
+-	The bytes written by a Producer has been consumed by a Consumer at a time. It works fine.
+

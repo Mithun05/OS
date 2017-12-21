@@ -1,0 +1,250 @@
+abcdef
+ghijkl
+mnopqrstu
+vfwxyz
+1234567890-=1234
+qwertyuiop;;;;asdfghj'''
+zxcvbnm,.;'oiutrdxsswdcfthbfx
+kjafkbagbgsf
+jssdgkjsgj
+jsgksgks
+agkakasg
+jtrhi mdjnsj
+kjtfghoglpegn2156746464
+4576374614gssgsgks
+bksgskgh5647613441bsgksgh
+jsgg
+bjkldldlgl
+xmxnrhtotwueysmfvx bxbkroetdyht   kwtteeeryteyey68467316+7.13.0
+hsfjsfgsbgisgf
+hsfgkskfhsf
+bksdfoptirhdnsvfjagropwradbfks
+3467432489+135678
+iusyfskgsgisg
+siggnqiwtsg;ldgmns;a;
+67987321346312
+igsgbdfggerrgpyeutetueytwrpwrqrpqq[rw
+uwihvskfjbwkf
+hwwe
+jwefhweh
+hwfkgb
+jwtwoithw
+jkwtwh
+jkwwtg
+jkeowetoiwwt
+kwthgoiwt
+wwtwet
+jwtwtwet
+jwwtwetjwwthwt
+kldfsbgfsootg xcvbkvndhgsgg
+dghjwtwtwtsgbdmg5467634
++467+426
+324134+ftrfwrzmnxvxvspfip
+jkswefsd32579871
+kjsdfksnfksf67643
+khsyffiwf3246434+6
+gshfhkskhsdf
+sfsfryrw367363914142w vxv xbsfmtietwtrrw
+hsoffsfslgigwt
+jkeyiotysmnbcgukhlyutyiujnknbcfdrdxxhjkmAsdftg
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses. 
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+Page table is the data structure used by a virtual memory system to store the mapping between virtual addresses and physical addresses.
+Virtual addresses are used by the accessing process, while physical addresses are used by the hardware, or more specifically, by the RAM subsystem.
+
